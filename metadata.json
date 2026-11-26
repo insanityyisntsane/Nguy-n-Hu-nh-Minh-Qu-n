@@ -1,0 +1,6 @@
+{
+  "name": "Infographic 3D Robot JetBot Jetson Nano",
+  "description": "Mô hình 3D kỹ thuật và infographic tương tác về robot JetBot NVIDIA Jetson Nano dành cho học sinh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
